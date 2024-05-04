@@ -1,9 +1,5 @@
-package FactoryDesignPattern.bo;
+package Creational.FactoryDesignPattern.impl;
 
-
-import FactoryDesignPattern.bo.custom.impl.CustomerBOImpl;
-import FactoryDesignPattern.bo.custom.impl.ItemBOImpl;
-import FactoryDesignPattern.bo.custom.impl.PlaceOrderBoImpl;
 
 public class BOFactory {
     private static BOFactory boFactory;
