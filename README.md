@@ -8,7 +8,7 @@
         <h4>* getInstance public and static *</h4>
         <img src="src/main/resources/image/singleton.png">
     <li>Factory Design Pattern</li>
-        <h4>* object creation hide *</h4>
+        <h4>* object creation logic hide *</h4>
         <img src="src/main/resources/image/Factory.png">
         <h4>use it :   
             BOFactory.getBOFactory().getBO("ITEM");
